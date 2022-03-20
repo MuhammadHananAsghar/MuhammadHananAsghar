@@ -85,7 +85,6 @@
   <a href="" target="_blank"> 
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   </a>
-  <br>
   <a href="" target="_blank"> 
     <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </a>

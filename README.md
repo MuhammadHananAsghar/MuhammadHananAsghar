@@ -48,7 +48,14 @@
  <a href="">
    &emsp; <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
-
+   &emsp;
+  <a href="">
+    <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
 </p>
 <h3>👉 Frameworks</h3>
 
@@ -97,6 +104,10 @@
   <a href="" target="_blank"> 
     <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="" target="_blank"> 
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-342B029.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  </a>
 </p>
 <h3>👉 Databases & Cloud Hosting</h3>
 <p align="left">
@@ -108,6 +119,8 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=black"></a>
  </p>
 <h3>👉 Software & Tools</h3>
  <p align="left>

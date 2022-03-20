@@ -117,7 +117,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=black"></a>
  </p>
@@ -131,7 +131,7 @@
     <a href="https://www.github.com"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-00f?style=for-the-badge&logo=adobelightroom&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-00f?style=for-the-badge&logo=adobepremierepro&logoColor=white"></a>
-<a href="https://firebase.google.com/"><img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=black"></a>
+<a href="https://firebase.google.com/"><img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"></a>
  </p>
 <h3>👉 Software & Tools</h3>
  <p align="center>

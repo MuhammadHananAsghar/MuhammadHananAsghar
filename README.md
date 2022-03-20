@@ -15,7 +15,7 @@
 # Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 
 <h3>👉 Programming Languages</h3>
-<p align="left"> 
+<p align="center"> 
   
 
   <a href="https://dart.dev/">
@@ -47,7 +47,7 @@
   </a>
   <br>
  <a href="">
-   &emsp; <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
    &emsp;
   <a href="">
@@ -60,7 +60,7 @@
 </p>
 <h3>👉 Frameworks</h3>
 
-<p align="left"> 
+<p align="center"> 
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -87,7 +87,7 @@
   </a>
   <br>
   <a href="" target="_blank"> 
-    &emsp; <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   </a>
   &emsp;
   <a href="" target="_blank"> 
@@ -111,7 +111,7 @@
   </a>
 </p>
 <h3>👉 Databases & Cloud Hosting</h3>
-<p align="left">
+<p align="center">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
@@ -124,7 +124,7 @@
 <a href="https://firebase.google.com/"><img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=black"></a>
  </p>
  <h3>👉 Graphic Designing</h3>
-<p align="left">
+<p align="center">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
   &emsp;
@@ -134,10 +134,10 @@
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-00f?style=for-the-badge&logo=adobepremierepro&logoColor=white"></a>
   <br>
-<a href="https://firebase.google.com/">&emsp;<img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=black"></a>
+<a href="https://firebase.google.com/"><img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=black"></a>
  </p>
 <h3>👉 Software & Tools</h3>
- <p align="left>
+ <p align="center>
   &emsp;
    <a href="#"> &emsp;<img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   &emsp;
@@ -151,7 +151,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <br>
-    <a href="#">&emsp;<img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+    <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
      &emsp;
@@ -166,3 +166,6 @@
     &emsp;
     
 </p>
+  
+<h3>Ooooooh! Where's my contributions going Hehehehe</h3>
+<img alt="Snakey" src="https://raw.githubusercontent.com/MuhammadHananAsghar/MuhammadHananAsghar/main/github-contribution-grid-snake.gif">

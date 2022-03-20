@@ -176,9 +176,21 @@
 </p>
 <br>
 <h2>👉 Muhammmad Hanan's Activity Graph</h2>
- <br>
+
 [![Muhammmad Hanan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadHananAsghar&custom_title=Muhammad%20Hanan%20Asghar&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MuhammadHananAsghar)
- <br>
 
 <h3>Ooooooh! Where's my contributions going Hehehehe</h3>
 <img alt="Snakey" src="https://raw.githubusercontent.com/MuhammadHananAsghar/MuhammadHananAsghar/main/github-contribution-grid-snake.gif">
+  
+## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a href="https://i-am-sultan.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:muhammadhananasghar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/MuhammadHananAsghar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	
+</p>
+
+<hr/>
+
+* Credit: [Muhammad Hanan Asghar](https://github.com/MuhammadHananAsghar)
+* Last Edited on: 20/03/2022

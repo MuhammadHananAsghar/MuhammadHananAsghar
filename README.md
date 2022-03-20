@@ -45,7 +45,6 @@
   <a href="">
     <img alt="Flutter" src="https://img.shields.io/badge/flutter-33B9FF?style=for-the-badge&logo=flutter&logoColor=white"/>
   </a>
-  <br>
  <a href="">
    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
@@ -132,7 +131,6 @@
     <a href="https://www.github.com"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-00f?style=for-the-badge&logo=adobelightroom&logoColor=white"></a>
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-00f?style=for-the-badge&logo=adobepremierepro&logoColor=white"></a>
-  <br>
 <a href="https://firebase.google.com/"><img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=black"></a>
  </p>
 <h3>👉 Software & Tools</h3>
@@ -149,7 +147,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<br>
     <a href="#"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
     &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>

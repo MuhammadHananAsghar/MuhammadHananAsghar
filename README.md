@@ -166,6 +166,19 @@
     &emsp;
     
 </p>
-  
+<h2>👉 My Statistics</h2>
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MuhammadHananAsghar&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHananAsghar&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+<h2>👉 Muhammmad Hanan's Activity Graph</h2>
+ <br>
+[![Muhammmad Hanan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadHananAsghar&custom_title=Muhammad%20Hanan%20Asghar&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MuhammadHananAsghar)
+ <br>
+
 <h3>Ooooooh! Where's my contributions going Hehehehe</h3>
 <img alt="Snakey" src="https://raw.githubusercontent.com/MuhammadHananAsghar/MuhammadHananAsghar/main/github-contribution-grid-snake.gif">

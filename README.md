@@ -122,6 +122,19 @@
   &emsp;
 <a href="https://firebase.google.com/"><img alt="Heroku" src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=black"></a>
  </p>
+ <h3>👉 Graphic Designing</h3>
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="Adobe Indesign" src ="https://img.shields.io/badge/Adobe Indesign-749a0?style=for-the-badge&logo=adobeindesign&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-00f?style=for-the-badge&logo=adobelightroom&logoColor=white"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Adobe Premiere Pro" src ="https://img.shields.io/badge/Adobe Premiere Pro-00f?style=for-the-badge&logo=adobepremierepro&logoColor=white"></a>
+  <br>
+<a href="https://firebase.google.com/">&emsp;<img alt="Canva" src ="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=black"></a>
+ </p>
 <h3>👉 Software & Tools</h3>
  <p align="left>
   &emsp;

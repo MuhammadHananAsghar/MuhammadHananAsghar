@@ -174,7 +174,7 @@
 <h3>Ooooooh! Where's my contributions going Hehehehe</h3>
 <img alt="Snakey" src="https://raw.githubusercontent.com/MuhammadHananAsghar/MuhammadHananAsghar/main/github-contribution-grid-snake.gif">
   
-## 🙋‍♀️ Let's Connect
+## 😎 Let's Connect
 <p align="center">
   <a href="https://i-am-sultan.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:muhammadhananasghar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>

@@ -12,3 +12,39 @@
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I play Gamers, Piano and draw Paintings! ⚽🎾🎹
+
+<h2>Programming Languages 😎</h2>
+<p align="left"> 
+  
+
+  <a href="https://dart.dev/">
+    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+  &emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
+  &emsp;
+<a href="">
+    <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
+  </a>
+  &emsp;
+<a href="">
+    <img alt="CSS" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
+  </a>
+  &emsp;
+<a href="">
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="">
+    <img alt="Flutter" src="https://img.shields.io/badge/flutter-33B9FF?style=for-the-badge&logo=flutter&logoColor=white"/>
+  </a>
+  &emsp;
+ 
+
+</p>

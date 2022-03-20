@@ -103,10 +103,6 @@
   <a href="" target="_blank"> 
     <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="" target="_blank"> 
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-342B029.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-  </a>
 </p>
 <h3>👉 Databases & Cloud Hosting</h3>
 <p align="center">

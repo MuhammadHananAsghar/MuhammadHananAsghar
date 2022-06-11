@@ -1,4 +1,4 @@
-![](/banner.png)
+![](/banner2.png)
 <h1 align="center">Hi , I'm Muhammad Hanan Asghar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/MuhammadHananAsghar"><img src="https://readme-typing-svg.herokuapp.com?color=5BF751&center=true&lines=I+am+Electrical+Engineer.;I+am+Artificial+Intelligence+Engineer.;I+am+Data+Scientist.;I+am+Learner.;I+am+Programmer.;I+am+Artist.;I+am+Painter."></a>
@@ -180,4 +180,4 @@
 <hr/>
 
 * Credit: [Muhammad Hanan Asghar](https://github.com/MuhammadHananAsghar)
-* Last Edited on: 20/03/2022
+* Last Edited on: 11/06/2022

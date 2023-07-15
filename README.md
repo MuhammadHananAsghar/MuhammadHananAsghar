@@ -162,9 +162,6 @@
   </a>
 </p>
 <br>
-<h2>👉 Muhammmad Hanan's Activity Graph</h2>
-
-[![Muhammmad Hanan's Activity Graph](https://activity-graph.herokuapp.com/graph?username=MuhammadHananAsghar&custom_title=Muhammad%20Hanan%20Asghar&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/MuhammadHananAsghar)
 
 <h3>Ooooooh! Where's my contributions going Hehehehe</h3>
 <img alt="Snakey" src="https://raw.githubusercontent.com/MuhammadHananAsghar/MuhammadHananAsghar/main/github-contribution-grid-snake.gif">
@@ -180,4 +177,4 @@
 <hr/>
 
 * Credit: [Muhammad Hanan Asghar](https://github.com/MuhammadHananAsghar)
-* Last Edited on: 04/04/2023
+* Last Edited on: 15/07/2023
